@@ -106,7 +106,7 @@ if st.button("調べる"):
     st.write(answer3)
     st.write(answer4)
 
-    st.write("[NABUのサイトで画像を見る](www.nabu.de)")
+
 else:
     st.write("")
 #Test
